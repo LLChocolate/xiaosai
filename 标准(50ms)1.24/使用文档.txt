@@ -33,3 +33,5 @@
 	SCL	PTD4
 	INT	ΏΥ
 	AD0	GND
+
+ίχίχίχ
